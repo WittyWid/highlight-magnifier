@@ -1,1 +1,1 @@
-# highlight-magnifier
+# Magnify&Pin
